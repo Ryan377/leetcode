@@ -39,4 +39,4 @@
 	<li><code>1 <= prices.length <= 3 * 10<sup>4</sup></code></li>
 	<li><code>0 <= prices[i] <= 10<sup>4</sup></code></li>
 </ul>
-<div><div>Related Topics</div><div><li>贪心</li><li>数组</li><li>动态规划</li></div></div><br><div><li>👍 1341</li><li>👎 0</li></div>
+<div><div>Related Topics</div><div><li>贪心</li><li>数组</li><li>动态规划</li></div></div><br><div><li>👍 1342</li><li>👎 0</li></div>
